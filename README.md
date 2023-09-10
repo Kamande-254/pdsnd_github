@@ -10,6 +10,10 @@ In this project, we will use Python to delve into the world of data and examine 
 * new_york_city.zip - dataset used for analysis (zipped csv file)
 * washington.zip - dataset used for analysis (zipped csv file)
 
+## Installation
+
+To run this project, you'll need Python installed on your computer. Additionally, you can install the required libraries by running  `pip install pandas and numpy`
+
 ## Credits
 I discovered a useful tool by Ahmed Samy Mekkawy to address the lack of gender and user data in Washington. Visit [Kaggle](https://www.kaggle.com/ahmedsamymekkawy/my-udacity-project-us-bikeshare-data) to take a look. An enormous shout-out and appreciation go out to Udacity's outstanding instructors for giving such helpful information during this journey.
 
