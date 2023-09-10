@@ -20,6 +20,13 @@ To analyze bikeshare data, run the `bikeshare.py` script in your terminal. You c
 
 python bikeshare.py: This command will launch the interactive mode, allowing you to input your preferences for data analysis.
 
+## Troubleshooting
+
+If you encounter any issues while running the script, here are some common problems and their solutions:
+
+- **Error: Invalid month input**: Ensure you enter a valid month (e.g., "January" or "all") in proper capitalization.
+- **Error: Dataset not found**: Make sure you have downloaded the required dataset files (e.g., `chicago.zip`, `new_york_city.zip`, `washington.zip`) and placed them in the appropriate directory.
+
 ## Credits
 I discovered a useful tool by Ahmed Samy Mekkawy to address the lack of gender and user data in Washington. Visit [Kaggle](https://www.kaggle.com/ahmedsamymekkawy/my-udacity-project-us-bikeshare-data) to take a look. An enormous shout-out and appreciation go out to Udacity's outstanding instructors for giving such helpful information during this journey.
 
